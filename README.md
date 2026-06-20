@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=REHAN%20ASHRAF%20PATHAN&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=REHAN%20PATHAN&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Computer+Science+Engineer+(AI);AI%2FML+Engineer;Software+Developer;Full+Stack+Developer;Building+Scalable+Digital+Products;Open+Source+Contributor"/>
 
