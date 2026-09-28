@@ -1,408 +1,416 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,35:312E81,70:6D28D9,100:0891B2&text=REHAN%20PATHAN&fontColor=F8FAFC&fontSize=58&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20×%20ARTIFICIAL%20INTELLIGENCE&descAlignY=61&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=REHAN%20PATHAN&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=%24+booting+rehan.pathan.dev...;%3E+Computer+Science+%2F+Artificial+Intelligence;%3E+Software+Engineer+in+the+making;%3E+AI+%2B+Systems+%2B+Full+Stack;%3E+Turning+ideas+into+working+software.;%3E+Always+building.+Always+learning."/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Computer+Science+Engineer+(AI);AI%2FML+Engineer;Software+Developer;Full+Stack+Developer;Building+Scalable+Digital+Products;Open+Source+Contributor"/>
 
 <br/>
 
+![](https://img.shields.io/badge/B.Tech-CSE%20(AI)-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Marwadi-University-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/Graduation-2028-A855F7?style=for-the-badge)
+
+![](https://img.shields.io/badge/Bhuj-Gujarat%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/><br/>
+
 <a href="https://rehnx.github.io/My--portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=020617"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/rehan-pathan-aka-zeus">
-<img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:pathanrehan4679@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/rehnx">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rehnx&style=flat-square&color=6D28D9&label=PROFILE+SIGNALS"/>
-<img src="https://img.shields.io/github/followers/rehnx?style=flat-square&color=0891B2&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/rehnx?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=EC4899&label=STARS"/>
+![](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=6366F1)
+
+![](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7)
 
 </div>
 
 ---
 
-```console
-┌──(rehnx@github)-[~/profile]
-└─$ whoami
+# About Me
 
-  NAME        : Rehan Pathan
-  DEGREE      : B.Tech — Computer Science Engineering (AI)
-  UNIVERSITY  : Marwadi University
-  MODE        : Build → Break → Learn → Rebuild
-  INTERESTS   : AI • Software Engineering • Systems • Full Stack
-  STATUS      : [██████████████████░░] constantly evolving
-```
+Computer Science Engineering (Artificial Intelligence) student at **Marwadi University** with a strong interest in building intelligent software systems, scalable web applications, and AI-powered products.
+
+My focus lies at the intersection of **Software Engineering**, **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**. I enjoy transforming ideas into practical solutions by combining engineering principles, modern development practices, and product-oriented thinking.
+
+I am continuously expanding my expertise in backend systems, cloud technologies, machine learning workflows, data engineering, and modern web development while building projects that solve real-world problems.
+
+### Open To
+
+- AI / Machine Learning Internships
+- Software Development Internships
+- Full Stack Development Roles
+- Data Preprocessing & Annotation Projects
+- Open Source Collaborations
+- Research & Innovation Opportunities
+
+---
+
+# Tech Stack
+
+## Languages
 
 <div align="center">
 
-### `// HUMAN_BEHIND_THE_CODE`
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript&perline=5"/>
 
 </div>
 
-I’m a **Computer Science Engineering (Artificial Intelligence)** student who likes building things that sit somewhere between **software engineering, artificial intelligence, systems, and product development**.
+## Frontend
 
-I enjoy taking an idea from
+<div align="center">
 
-`concept → architecture → code → bugs → debugging → deployment`
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&perline=5"/>
 
-and turning it into something people can actually use.
+</div>
 
-My current objective is simple:
+## Backend & Databases
 
-> **Understand systems deeply enough to build ambitious software from scratch.**
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&perline=5"/>
 
-### ⚡ CURRENT SIGNAL
+</div>
+
+## Cloud, DevOps & Tooling
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&perline=6"/>
+
+</div>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|----------|----------|
+| Artificial Intelligence | Intermediate | AI fundamentals, intelligent systems, practical applications |
+| Machine Learning | Intermediate | Model building, training, evaluation, feature engineering |
+| Deep Learning | Intermediate | Neural networks, CNN concepts, learning architectures |
+| Data Preprocessing | Advanced | Cleaning, transformation, labeling, dataset preparation |
+| Computer Vision | Intermediate | Image datasets, annotation workflows, visual recognition concepts |
+| Natural Language Processing | Intermediate | Text processing, embeddings, language models |
+| Data Analytics | Intermediate | Exploratory analysis and insights generation |
+| AI Product Development | Intermediate | Integrating AI capabilities into software products |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>AI Resume Screening System</b></summary>
+
+### Project Description
+
+An intelligent recruitment platform that leverages machine learning and NLP techniques to analyze, rank, and shortlist candidate resumes.
+
+| Category | Details |
+|-----------|----------|
+| Stack | Python, Flask, Machine Learning, MySQL |
+| Scale | Multi-user Recruitment Workflow |
+| Performance | Automated Resume Analysis |
+| Security | Authentication & Secure Storage |
+| Impact | Reduced Manual Screening Time |
+| Repository | Public |
+
+### Professional Overview
+
+Designed a recruitment automation platform capable of extracting candidate information, evaluating profiles against job requirements, and generating candidate rankings using machine learning techniques.
+
+</details>
+
+<details>
+<summary><b>Full Stack Learning Management Platform</b></summary>
+
+### Project Description
+
+A modern educational platform supporting course delivery, progress tracking, assessments, and learner engagement.
+
+| Category | Details |
+|-----------|----------|
+| Stack | React, Node.js, Express, MongoDB |
+| Scale | Multi-course Learning Platform |
+| Performance | Optimized API Architecture |
+| Security | JWT Authentication |
+| Impact | Enhanced Digital Learning Experience |
+| Repository | Public |
+
+### Professional Overview
+
+Built a scalable learning management system supporting role-based access, assignment management, student analytics, and collaborative educational experiences.
+
+</details>
+
+<details>
+<summary><b>Handwritten Text Processing Pipeline</b></summary>
+
+### Project Description
+
+A data preprocessing and annotation workflow designed to prepare high-quality datasets for computer vision and OCR model training.
+
+| Category | Details |
+|-----------|----------|
+| Stack | Python, OpenCV, Annotation Tools |
+| Scale | Large Dataset Processing |
+| Performance | High Annotation Accuracy |
+| Security | Controlled Data Access |
+| Impact | Improved AI Training Quality |
+| Repository | Private |
+
+### Professional Overview
+
+Focused on annotation quality assurance, preprocessing automation, and structured dataset preparation to support enterprise AI model development.
+
+</details>
+
+<details>
+<summary><b>Personal Portfolio & Developer Platform</b></summary>
+
+### Project Description
+
+A responsive portfolio platform showcasing projects, achievements, technical expertise, and engineering experience.
+
+| Category | Details |
+|-----------|----------|
+| Stack | HTML, CSS, JavaScript |
+| Scale | Personal Brand Platform |
+| Performance | Optimized Frontend Experience |
+| Security | Secure Hosting Practices |
+| Impact | Professional Online Presence |
+| Repository | Public |
+
+### Professional Overview
+
+Developed a recruiter-focused portfolio emphasizing project visibility, technical skills, professional achievements, and career growth.
+
+</details>
+
+---
+
+# Experience
+
+## AI Data Preprocessing & Annotation Intern — AI Data Operations Team
+
+**2026 – Present**
+
+Contributing to large-scale AI dataset preparation initiatives supporting machine learning and computer vision applications.
+
+### Scope of Work
+
+- Handwritten text annotation
+- Bounding box creation and validation
+- Dataset quality assurance
+- Data preprocessing workflows
+- Annotation accuracy optimization
+- AI training data enhancement
+
+### Skills
+
+`Data Preprocessing` `Computer Vision` `Annotation` `Machine Learning` `Quality Assurance`
+
+---
+
+## Software Development Projects — Independent Developer
+
+**2024 – Present**
+
+Designing and building software solutions focused on usability, scalability, maintainability, and engineering best practices.
+
+### Scope of Work
+
+- Frontend Development
+- Backend Engineering
+- Database Design
+- REST API Development
+- Version Control Management
+- Deployment & Optimization
+
+### Skills
+
+`Python` `JavaScript` `React` `Node.js` `MySQL` `Git`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|----------|
+| AI Engineering Journey | Pursuing specialization in Artificial Intelligence |
+| Software Development | Built multiple software and web development projects |
+| Technical Learning | Continuous improvement across AI, ML, and Full Stack Development |
+| Open Source Mindset | Active contributor and technology enthusiast |
+| Problem Solving | Strong foundation in programming and logical thinking |
+| Engineering Growth | Dedicated to becoming a high-impact software engineer |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+![](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Database%20Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge)
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=2&column=4&no-frame=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
 
 ```yaml
-learning:
+Learning:
   - Machine Learning
   - Deep Learning
   - System Design
   - Cloud Computing
 
-exploring:
+Building:
+  - AI Applications
+  - Full Stack Web Platforms
+  - Software Engineering Projects
+  - Developer Portfolio
+
+Exploring:
   - Generative AI
   - MLOps
-  - Linux
-  - Open Source
-```
+  - Cloud Infrastructure
+  - Open Source Development
 
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ OPEN CHANNELS
-
-```yaml
-available_for:
-  - AI / ML Internships
-  - Software Engineering Internships
-  - Full Stack Development
+Open_To:
+  - AI/ML Internships
+  - Software Development Roles
+  - Full Stack Development Opportunities
   - Open Source Collaboration
-  - Research & Innovation
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `// TECH_ARSENAL`
-
-<sub>tools are temporary • fundamentals are permanent</sub>
-
-<br/><br/>
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript&theme=dark"/>
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark"/>
-
-### BACKEND + DATA
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&theme=dark"/>
-
-### ENGINEERING TOOLBOX
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `// AI_ENGINEERING_MATRIX`
-
-</div>
-
-| MODULE | ACTIVE WORK |
-|:---|:---|
-| `AI_CORE` | Intelligent systems, AI fundamentals, practical applications |
-| `ML_PIPELINE` | Model training, evaluation, preprocessing, feature engineering |
-| `DEEP_LEARNING` | Neural networks, CNN concepts and learning architectures |
-| `COMPUTER_VISION` | Image datasets, annotation pipelines and visual recognition |
-| `NLP` | Text processing, embeddings and language-model concepts |
-| `DATA_ENGINEERING` | Cleaning, transformation and structured dataset preparation |
-| `AI_PRODUCTS` | Integrating intelligent capabilities into usable applications |
-
----
-
-<div align="center">
-
-## `// PROJECT_ARCHIVE`
-
-<sub>selected experiments from the lab</sub>
-
-</div>
-
-<details>
-<summary><b>01 // AI Resume Screening System</b> — Python × Flask × ML × MySQL</summary>
-
-<br/>
-
-> Intelligent recruitment workflow for analyzing and evaluating candidate resumes using machine-learning and NLP techniques.
-
-```yaml
-type: AI / Recruitment Automation
-
-stack:
-  - Python
-  - Flask
-  - Machine Learning
-  - MySQL
-
-systems:
-  - Resume information extraction
-  - Candidate evaluation
-  - Job requirement matching
-  - Candidate ranking
-  - Authentication
-  - Secure data storage
-
-repository: Public
-```
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>02 // Full Stack Learning Management Platform</b> — React × Node.js × MongoDB</summary>
-
-<br/>
-
-> Multi-role educational platform designed around course delivery, assessments, progress tracking and learner engagement.
-
-```yaml
-type: Full Stack Platform
-
-stack:
-  - React
-  - Node.js
-  - Express
-  - MongoDB
-
-systems:
-  - Role-based access
-  - Course management
-  - Assignment workflow
-  - Student analytics
-  - REST APIs
-  - JWT authentication
-
-repository: Public
-```
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>03 // Handwritten Text Processing Pipeline</b> — Python × OpenCV</summary>
-
-<br/>
-
-> Data-processing workflow for preparing high-quality computer-vision and OCR training datasets.
-
-```yaml
-type: AI Data Pipeline
-
-stack:
-  - Python
-  - OpenCV
-  - Annotation Tools
-
-focus:
-  - Image preprocessing
-  - Bounding-box annotation
-  - Dataset validation
-  - Quality assurance
-  - Structured training data
-
-repository: Private
-```
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>04 // Personal Portfolio Platform</b> — HTML × CSS × JavaScript</summary>
-
-<br/>
-
-> Developer portfolio built to showcase technical work, projects, achievements and engineering growth.
-
-```yaml
-type: Developer Platform
-
-stack:
-  - HTML
-  - CSS
-  - JavaScript
-
-focus:
-  - Responsive UI
-  - Project presentation
-  - Performance
-  - Personal branding
-
-repository: Public
-deployment: GitHub Pages
-```
-
-</details>
-
----
-
-<div align="center">
-
-## `// EXPERIENCE_LOG`
-
-</div>
-
-```text
-2026 ─────────────────────────────────────────────────────────────── NOW
- │
- ├─ AI Data Preprocessing & Annotation Intern
- │    ├─ Handwritten text annotation
- │    ├─ Bounding-box creation
- │    ├─ Dataset validation
- │    ├─ Quality assurance
- │    ├─ Preprocessing workflows
- │    └─ Training-data enhancement
- │
- │
-2024 ─────────────────────────────────────────────────────────────── NOW
- │
- └─ Independent Software Development
-      ├─ Frontend development
-      ├─ Backend engineering
-      ├─ Database design
-      ├─ REST API development
-      ├─ Version control
-      └─ Deployment & optimization
 ```
 
 ---
 
-<div align="center">
-
-## `// CERTIFICATION_VAULT`
-
-<br/>
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-Database%20Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-Certified-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</div>
-
----
+# Connect
 
 <div align="center">
 
-## `// LIVE_GITHUB_TELEMETRY`
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rehnx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=C4B5FD&ring_color=EC4899"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=rehnx&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehnx&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C4B5FD"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `// ACTIVITY_STREAM`
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rehnx&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=EC4899&area=true&area_color=6D28D9&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `// OPERATING_DIRECTIVE`
-
-</div>
-
-```python
-class Rehan:
-    def __init__(self):
-        self.role = "CSE (AI) Engineer"
-        self.status = "learning"
-        self.curiosity = float("inf")
-        self.quit = False
-
-    def daily_loop(self):
-        while not self.quit:
-            learn()
-            build()
-            break_things()
-            debug()
-            rebuild_better()
-
-rehan = Rehan()
-rehan.daily_loop()
-```
-
-<div align="center">
-
-### `BUILD > BREAK > DEBUG > EVOLVE`
-
-<br/>
-
-<a href="https://github.com/rehnx">
-<img src="https://img.shields.io/badge/EXPLORE_MY_CODE-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-</a>
-
-<a href="https://rehnx.github.io/My--portfolio/">
-<img src="https://img.shields.io/badge/ENTER_PORTFOLIO-312E81?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mailto:pathanrehan4679@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rehan-pathan-aka-zeus">
-<img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│   "The best way to understand a system             │
-│    is to build one."                               │
-│                                                    │
-│                         — rehnx                    │
-└────────────────────────────────────────────────────┘
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:020617,35:312E81,70:6D28D9,100:0891B2"/>
+<a href="https://portfolio.example.com">
+<img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+### *"Building intelligent software solutions through engineering excellence, innovation, and continuous learning."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:4F46E5,50:7C3AED,100:A855F7"/>
