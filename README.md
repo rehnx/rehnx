@@ -1,4 +1,4 @@
-# Rehan Pathan
+# Rehan lohar
 
 Software Engineering · Artificial Intelligence · Systems
 
