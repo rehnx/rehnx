@@ -1,0 +1,15 @@
+.github/workflows/update-profile-art.yml
+.gitignore
+README.md
+SETUP.md
+ascii-portrait.svg
+contrib-heatmap.svg
+data/contributions.json
+info-card.svg
+scripts/fetch_contributions.py
+scripts/make_ascii_svg.py
+scripts/make_info_card.py
+scripts/prep_photo.py
+scripts/render_heatmap_svg.py
+scripts/requirements-portrait.txt
+scripts/requirements.txt

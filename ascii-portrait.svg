@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="420" viewBox="0 0 370 420" role="img" aria-labelledby="title desc">
+<title id="title">ASCII portrait placeholder</title>
+<desc id="desc">Run the portrait scripts with source-photo.jpg to replace this placeholder.</desc>
+<rect x="0.5" y="0.5" width="369" height="419" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="17" cy="18" r="3" fill="#f85149"/>
+<circle cx="29" cy="18" r="3" fill="#d29922"/>
+<circle cx="41" cy="18" r="3" fill="#3fb950"/>
+<text x="56" y="22" fill="#8b949e" font-size="10.5" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">ascii-portrait</text>
+<g fill="#c9d1d9" font-size="11" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">
+<text x="185" y="100">          .-======-.          </text>
+<text x="185" y="116">       .+##########+.       </text>
+<text x="185" y="132">      +##############+      </text>
+<text x="185" y="148">     *####*======*####*     </text>
+<text x="185" y="164">    +###*:        :*###+    </text>
+<text x="185" y="180">    ###*.          .*###    </text>
+<text x="185" y="196">    ###+    ....    +###    </text>
+<text x="185" y="212">    *###.  .+**+.  .###*    </text>
+<text x="185" y="228">     +##+   :==:   +##+     </text>
+<text x="185" y="244">      *###-.    .-###*      </text>
+<text x="185" y="260">       +###########+       </text>
+<text x="185" y="276">         -*####*-         </text>
+</g>
+<text x="185" y="330" fill="#39d353" font-size="13" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">portrait not generated yet</text>
+<text x="185" y="353" fill="#8b949e" font-size="9.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">add source-photo.jpg</text>
+<text x="185" y="370" fill="#8b949e" font-size="9.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">then run prep_photo.py + make_ascii_svg.py</text>
+<text x="18" y="403" fill="#39d353" font-size="10.5" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">rehnx@github:~$ █</text>
+</svg>

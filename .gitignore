@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local portrait source/preprocessing — do not commit
+source-photo.jpg
+source-photo.jpeg
+source-photo.png
+source-prepped.png

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="218" viewBox="0 0 860 218" role="img" aria-labelledby="title desc">
+<title id="title">Contribution calendar placeholder</title>
+<desc id="desc">The GitHub Actions workflow will replace this file with the live contribution calendar.</desc>
+<rect x="0.5" y="0.5" width="859" height="217" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="17" cy="18" r="3" fill="#f85149"/>
+<circle cx="29" cy="18" r="3" fill="#d29922"/>
+<circle cx="41" cy="18" r="3" fill="#3fb950"/>
+<text x="56" y="22" fill="#8b949e" font-size="10.5" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">rehnx / contributions</text>
+<text x="430" y="101" text-anchor="middle" fill="#c9d1d9" font-size="13" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">live contribution data loads after the workflow runs</text>
+<text x="430" y="124" text-anchor="middle" fill="#8b949e" font-size="10" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">Actions → Update terminal profile → Run workflow</text>
+<line x1="24" y1="165" x2="836" y2="165" stroke="#30363d"/>
+<text x="24" y="190" fill="#8b949e" font-size="10.5" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">waiting for first refresh</text>
+</svg>
