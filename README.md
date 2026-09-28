@@ -8,7 +8,7 @@ Software Engineering · Artificial Intelligence · Systems
 ┌──(rehnx@github)-[~/profile]
 └─$ whoami
 
-  NAME        : Rehan Pathan
+  NAME        : Rehan lohar
   DEGREE      : B.Tech — Computer Science Engineering (AI)
   UNIVERSITY  : Marwadi University
   MODE        : Build → Break → Learn → Rebuild
