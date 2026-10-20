@@ -2,7 +2,7 @@
 
 Software Engineering · Artificial Intelligence · Systems
 
-[Portfolio](https://rehnx.github.io/My--portfolio/) · [LinkedIn](https://www.linkedin.com/in/rehan-pathan-aka-zeus) · [Email](mailto:pathanrehan4679@gmail.com) · [GitHub](https://github.com/rehnx)
+[Portfolio](https://imrehan.me/) · [LinkedIn](https://www.linkedin.com/in/rehan-pathan-aka-zeus) · [Email](mailto:pathanrehan4679@gmail.com) · [GitHub](https://github.com/rehnx)
 
 ```console
 ┌──(rehnx@github)-[~/profile]
