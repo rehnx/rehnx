@@ -1,42 +1,7 @@
 {
   "username": "rehnx",
-  "generated_at": "2026-10-24T11:07:25+00:00",
+  "generated_at": "2026-10-25T11:37:49+00:00",
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0,
@@ -1849,19 +1814,24 @@
     },
     {
       "date": "2026-10-23",
-      "count": 14,
+      "count": 15,
       "level": 4
     },
     {
       "date": "2026-10-24",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-25",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "total": 218,
-    "current_streak": 7,
-    "longest_streak": 7,
+    "total": 220,
+    "current_streak": 8,
+    "longest_streak": 8,
     "best_day": {
       "date": "2026-10-22",
       "count": 46
@@ -1879,7 +1849,7 @@
       "2026-07": 9,
       "2026-08": 19,
       "2026-09": 38,
-      "2026-10": 114
+      "2026-10": 116
     }
   }
 }
